@@ -1,8 +1,9 @@
 # Task-5
 html file:  https://github.com/Yuvresh-Gavale/Task-5/blob/main/index.html
-css file:
+<br>
+css file:   https://github.com/Yuvresh-Gavale/Task-5/blob/main/style.css
 # Clone the repo
-git clone <your-repo-link>
+git clone <https://github.com/Yuvresh-Gavale/Task-5/edit/main/README.md>
 
 # Go into the project folder
 cd <project-folder>
