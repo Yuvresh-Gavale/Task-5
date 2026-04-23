@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  background-color: #eaeaea;
+  padding: 15px 30px;
+  overflow: hidden; /* clears floats */
+  position: relative;
+  height: 80px;
+}
+
+/* Logo (left) */
+.logo {
+  color: rgb(44, 57, 71);
+  margin-top: 30px;
+  float: left;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 8px 15px;
+}
+
+/* Menu (center) */
+.menu {
+  list-style: none;
+  text-align: center;
+  margin-top: 10px;
+  position: absolute;
+  bottom: 10px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+/* Make menu items inline */
+.menu li {
+  margin-top: 10px;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.menu li a {
+  margin-top: 10px;
+  text-decoration: none;
+  color: #666;
+  font-size: 14px;
+}
+
+/* Button (right) */
+.btn {
+  margin-top: 30px;
+  float: right;
+  padding: 8px 15px;
+  background-color: #d6ecff;
+  color: #399cbd;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.hh1 {
+  color: #536878;
+  margin-left: 10%;
+  margin-top: 60px;
+  padding-top: 50px;
+}
+.hh2 {
+  color: #536878;
+  margin-left: 10%;
+}
+.hh3 {
+  color: #0088ff;
+  margin-left: 10%;
+}
+p {
+  margin-left: 10%;
+  margin-top: 20px;
+  text-align: left;
+  text-shadow: #666;
+  line-height: 1.5em;
+  width: 400px;
+}
+.btn2 {
+  margin-top: 20px;
+  margin-left: 10%;
+  padding: 15px 15px 15px 15px;
+  background-color: #0088ff;
+  color: #e3e3e3;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.image img {
+  max-width: 100%;
+  height: 440px;
+  margin-top: 10px;
+  padding-top: 20px;
+}
+
+.text {
+  width: 50%;
+  float: left;
+}
