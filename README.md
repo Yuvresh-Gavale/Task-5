@@ -11,3 +11,5 @@ npm install
 
 # Run the project
 npm start
+<br>
+open index.html in browser
